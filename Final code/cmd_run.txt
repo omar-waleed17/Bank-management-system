@@ -1,0 +1,1 @@
+gcc main.c options.c UI_load.c utils.c -omain
