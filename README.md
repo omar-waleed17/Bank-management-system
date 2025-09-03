@@ -70,3 +70,6 @@ That’s it — no compilation required. 🎉
 - Ensure the account data file exists before starting the program.  
 - All inputs are validated (email, phone number, account number, transaction limits).  
 - Data is automatically saved on exit.  
+- The repository also contains a **detailed documentation manual** that explains everything implemented in the project.  
+
+---
